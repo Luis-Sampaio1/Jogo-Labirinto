@@ -2,7 +2,7 @@ import threading
 import random
 import time
 import tkinter as tk
-
+#Jogo Labirinto
 # Configuração do labirinto
 LAB_SIZE = 15
 labirinto = [[" " for _ in range(LAB_SIZE)] for _ in range(LAB_SIZE)]
